@@ -224,24 +224,6 @@
             </p>
         </section>
 
-        <section id="contact" class="section">
-            <h2 class="section-title">Contact Us</h2>
-            <form style="max-width: 500px; margin: 0 auto;">
-                <div style="margin-bottom: 1rem;">
-                    <label for="name" style="display: block; margin-bottom: 0.5rem;">Name:</label>
-                    <input type="text" id="name" name="name" required style="width: 100%; padding: 0.5rem; border-radius: 5px; border: 1px solid #ccc;">
-                </div>
-                <div style="margin-bottom: 1rem;">
-                    <label for="email" style="display: block; margin-bottom: 0.5rem;">Email:</label>
-                    <input type="email" id="email" name="email" required style="width: 100%; padding: 0.5rem; border-radius: 5px; border: 1px solid #ccc;">
-                </div>
-                <div style="margin-bottom: 1rem;">
-                    <label for="message" style="display: block; margin-bottom: 0.5rem;">Message:</label>
-                    <textarea id="message" name="message" required style="width: 100%; padding: 0.5rem; border-radius: 5px; border: 1px solid #ccc; height: 150px;"></textarea>
-                </div>
-                <button type="submit" class="btn" style="border: none; cursor: pointer;">Send Message</button>
-            </form>
-        </section>
     </main>
 
     <footer class="footer">
